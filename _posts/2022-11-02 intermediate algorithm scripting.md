@@ -1,7 +1,7 @@
 ---
 Layout:
 Title: Intermeadiate algorithm scripting 
-date: 2022-11-02
+date: 2022-12-02
 Categories:
 ---
 
