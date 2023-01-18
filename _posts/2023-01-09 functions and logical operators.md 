@@ -1,0 +1,18 @@
+---
+Layout:
+Title: Learning about logical operations and functions
+date: 2023-01-09
+Categories:
+---
+
+# Introduction
+- Today i learned more about logical operations and functions.
+
+# Body
+- I learned about logical AND(&&) ,logical OR(||) , logical NOT (!).
+- Which their output are:  (A && B) => false
+(A || B) => true
+!(A && B ) => true
+
+- I learned more about functions ,which is a group of reusable code which can be called anywhere in your program.
+- It allow a program to divide a big program into a number of small and manageable functions.

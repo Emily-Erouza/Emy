@@ -5,8 +5,8 @@ date: 2022-12-07
 Categories:
 ---
 
-# Intoduction
-Today I did some research about javascript .Which there are things that I dont understand in javascript.
+# IntoductionTod
+ay I did some research about javascript .Which there are things that I dont understand in javascript.
 
 # Body
 - I learned about differnt types of loops:while loop, for loop,for..of loop.
